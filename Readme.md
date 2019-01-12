@@ -1,5 +1,5 @@
 # DFA
-A Definite Finite Automata evaluation engine. 
+A Deterministic Finite Automaton evaluation engine. 
 
 ## Getting Started
 - Define state in `state-machine.js` and then give input in eval.js and run using `node eval.js`
